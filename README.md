@@ -1,0 +1,1 @@
+This example demonstrates a common TypeScript error where a function expects a number but receives a string.  The solution showcases how to handle this using type guards or type assertion.
